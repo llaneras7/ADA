@@ -28,7 +28,7 @@ public class KesimoElemento {
 		}
 	}
 
-	// Metodo "partir" que proporcionaste
+	// Metodo "partir"
 	public static int partir(int[] a, int inf, int sup) {
 		int pivote = a[inf];
 		int i = inf + 1;
